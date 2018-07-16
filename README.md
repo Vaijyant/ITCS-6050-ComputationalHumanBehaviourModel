@@ -1,4 +1,4 @@
-# ITCS-6150: Computational Human Behaviour Model
+# ITCS-6050: Computational Human Behaviour Model
 
 ## Emotion Detection in Speech
 
